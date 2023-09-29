@@ -13,13 +13,13 @@ This is my repository containing a portfolio of data science projects for academ
 
 ### Tech Stack
   <a href="#"><img align="left" alt="MySQL" title="MySQL" width="21px" src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png" /></a>
-  <a href="https://www.postgresql.org/"><img align="left" alt="PostgreSQL" title="PostgreSQL" width="21px" src="https://seeklogo.com/images/P/postgresql-logo-6DBC096ED4-seeklogo.com.png" /></a>
+  <a href="https://www.postgresql.org/"><img align="left" alt="PostgreSQL" title="PostgreSQL" width="21px" src="https://seeklogo.com/images/P/postgresql-logo-5309879B58-seeklogo.com.png" /></a>
   <a href="https://python.org/"><img align="left" alt="Python" title="Python" width="21px" src="https://seeklogo.com/images/P/python-logo-C50EED1930-seeklogo.com.png" /></a>
   <a href="https://r-project.org/"><img align="left" alt="R" title="R Programming" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" /></a>
   <a href="https://jupyter.org/"><img align="left" alt="Jupyter" title="Jupyter" width="21px" src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png" /></a>
-  <a href="https://tensorflow.org/"><img align="left" alt="TensorFlow" title="TensorFlow" width="21px" src="https://seeklogo.com/images/T/tensorflow-logo-AE5100E55E-seeklogo.com.png" /></a>
+  <a href="https://tensorflow.org/"><img align="left" alt="TensorFlow" title="TensorFlow" width="21px" src="https://seeklogo.com/images/T/tensorflow-logo-C69AEAC9D0-seeklogo.com.png" /></a>
   <a href="https://scikit-learn.org/"><img align="left" alt="Scikit-Learn" title="Scikit-Learn" width="21px" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" /></a>
-  <a href="https://heroku.com/"><img align="left" alt="Heroku" title="Heroku" width="21px" src="https://seeklogo.com/images/H/heroku-logo-F702BAAB71-seeklogo.com.png" /></a>
+  <a href="https://heroku.com/"><img align="left" alt="Heroku" title="Heroku" width="21px" src="https://seeklogo.com/images/H/heroku-logo-B774A78667-seeklogo.com.png" /></a>
   <a href="https://streamlit.io/"><img align="left" alt="Streamlit" title="Streamlit" width="21px" src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" /></a>
   <br>
   <br>
