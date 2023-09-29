@@ -33,5 +33,5 @@ This is my repository containing a portfolio of data science projects for academ
 </p>
 
 ### Reach me on
-- <a href="https://linkedin.com/in/dwiayunouvalina/">LinkedIn</a>
+- <a href="https://www.linkedin.com/in/dwi-ayu-nouvalina/">LinkedIn</a>
 
