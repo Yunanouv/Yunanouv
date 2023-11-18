@@ -1,10 +1,9 @@
-# Data Portfolio
-
 ### Hi! 👋 I'm Yuna.
 
 This is my repository containing a portfolio of data science projects for academic, boot camp, and self-learning purposes.
 
 
+- 👧 My name is Dwi Ayu Nouvalina
 - ❤️ I love math, business, data, and technology
 - 🌱 I’m currently learning about data science, machine learning, and deep learning
 - 🏢 I used to work at Dotlines Group as Business Development
@@ -12,7 +11,7 @@ This is my repository containing a portfolio of data science projects for academ
 - ⚡ Fun fact: Love arts and drawing 🎨
 
 
-# Contents  
+# Data Portfolio  
 
 ## Data Analysis and Visualization
  - [E-Commerce Business Performance Analysis Using SQL](https://github.com/Yunanouv/ECommerce-Business-Performance-Analysis) : Analyze an e-commerce business performance to improve their business growth
@@ -27,7 +26,7 @@ This is my repository containing a portfolio of data science projects for academ
 - Clustering - [Airlines Passengers Clustering](https://github.com/Yunanouv/Airlines-Passengers-Clustering): Clustering the airlines passengers based on customer behavior. Business analysis and recommendations are provided. 
 
 ### Recommender System 
-  - Content-Based Filtering
+  - Content-Based Filtering  
 [Skin Care Product Recommender System Using Content-Based Filtering](https://github.com/Yunanouv/Skin-Care-Recommender-System)
 
 
@@ -54,5 +53,5 @@ This is my repository containing a portfolio of data science projects for academ
 </p>
 
 ### Reach me on
-- <a href="https://www.linkedin.com/in/dwi-ayu-nouvalina/">LinkedIn</a>
+ <a href="https://www.linkedin.com/in/dwi-ayu-nouvalina/">LinkedIn</a>
 
