@@ -11,6 +11,27 @@ This is my repository containing a portfolio of data science projects for academ
 - 🏫 I joined boot camp/online courses at Coursera, Dicoding Academy, Rakamin Academy, DQ Lab
 - ⚡ Fun fact: Love arts and drawing 🎨
 
+
+# Contents  
+
+## Data Analysis and Visualization
+ - [E-Commerce Business Performance Analysis Using SQL](https://github.com/Yunanouv/ECommerce-Business-Performance-Analysis) : Analyze an e-commerce business performance to improve their business growth
+ - Investigate Hotel Business Analysis Using Data Visualization 
+## Machine Learning
+### Supervised Learning
+- Regression - [Youtube Views Prediction](https://github.com/Yunanouv/Youtube-Views-Prediction): A model to predict youtube views
+- Regression - [Used Car Auction Price Prediction](https://github.com/Yunanouv/Used-Car-Price-Prediction):  A model to predict used car price based on its value utilizing machine learning. The new price is generated based on company problems. Business analysis and recommendations are provided.
+- Classification - Predict Customer Clicked Ads to Boost Marketing Target
+    
+### Unsupervised Learning
+- Clustering - [Airlines Passengers Clustering](https://github.com/Yunanouv/Airlines-Passengers-Clustering): Clustering the airlines passengers based on customer behavior. Business analysis and recommendations are provided. 
+
+### Recommender System 
+  - Content-Based Filtering
+[Skin Care Product Recommender System Using Content-Based Filtering](https://github.com/Yunanouv/Skin-Care-Recommender-System)
+
+
+
 ### Tech Stack
   <a href="#"><img align="left" alt="MySQL" title="MySQL" width="21px" src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png" /></a>
   <a href="https://www.postgresql.org/"><img align="left" alt="PostgreSQL" title="PostgreSQL" width="21px" src="https://seeklogo.com/images/P/postgresql-logo-5309879B58-seeklogo.com.png" /></a>
