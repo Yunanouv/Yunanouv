@@ -14,8 +14,8 @@ This is my repository containing a portfolio of data science projects for academ
 # Data Portfolio  
 
 ## Data Analysis and Visualization
- - [E-Commerce Business Performance Analysis Using SQL](https://github.com/Yunanouv/ECommerce-Business-Performance-Analysis) : Analyze an e-commerce business performance to improve their business growth
- - Investigate Hotel Business Analysis Using Data Visualization 
+ - [E-Commerce Business Performance Analysis Using SQL](https://github.com/Yunanouv/ECommerce-Business-Performance-Analysis): Analyze an e-commerce business performance to improve their business growth
+ - [Investigate Hotel Business Analysis Using Data Visualization](https://github.com/Yunanouv/Hotel-Business-Analysis) : Analyze city and resort hotels to reduce cancellation rates 
 ## Machine Learning
 ### Supervised Learning
 - Regression - [Youtube Views Prediction](https://github.com/Yunanouv/Youtube-Views-Prediction): A model to predict youtube views
