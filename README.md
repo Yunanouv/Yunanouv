@@ -24,7 +24,8 @@ This is my repository containing a portfolio of data science projects for academ
 - Classification - [Improving Employee Retention](https://github.com/Yunanouv/Improving-Employee-Retention): A model to predict employee attrition to improve employee retention using machine learning. 
     
 ### Unsupervised Learning
-- Clustering - [Airlines Passengers Clustering](https://github.com/Yunanouv/Airlines-Passengers-Clustering): Clustering the airlines passengers based on customer behavior. Business analysis and recommendations are provided. 
+- Clustering - [Airlines Passengers Clustering](https://github.com/Yunanouv/Airlines-Passengers-Clustering): Clustering the airlines passengers based on customer behavior. Business analysis and recommendations are provided.
+- Clustering - [Predict Customer Personality](https://github.com/Yunanouv/Predict-Customer-Personality): Clustering the customer personalities to boost marketing campaign. Business analysis and recommendations are provided.
 
 ### Recommender System 
   - Content-Based Filtering  
