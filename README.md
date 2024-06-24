@@ -5,7 +5,7 @@ This is my repository containing a portfolio of data science projects for academ
 
 - 👧 My name is Dwi Ayu Nouvalina
 - ❤️ I love math, business, data, and technology
-- 🌱 I’m currently learning about data science, machine learning, and deep learning
+- 🌱 I’m currently learning at Purwadhika Digital Technology School through Digital Talent Incubator (DTI) - Data Science Program
 - 🏢 I used to work at Dotlines Group as Business Development
 - 🏫 I joined boot camp/online courses at Coursera, Dicoding Academy, Rakamin Academy, DQ Lab
 - ⚡ Fun fact: Love arts and drawing 🎨
@@ -13,9 +13,14 @@ This is my repository containing a portfolio of data science projects for academ
 
 # Data Portfolio  
 
+## Python Programming  
+ - [Mini Cake Shop](https://github.com/Yunanouv/Mini-App-CRUD): Create simple application using CRUD python.
+   
 ## Data Analysis and Visualization
- - [E-Commerce Business Performance Analysis Using SQL](https://github.com/Yunanouv/ECommerce-Business-Performance-Analysis): Analyze an e-commerce business performance to improve their business growth
- - [Investigate Hotel Business Analysis Using Data Visualization](https://github.com/Yunanouv/Hotel-Business-Analysis) : Analyze city and resort hotels to reduce cancellation rates 
+ - [Public Transportation Analysis](https://github.com/Yunanouv/Public-Transportation-Analysis): Analyze public transportation using python and visuzalize using Tableau.    
+ - [E-Commerce Business Performance Analysis Using SQL](https://github.com/Yunanouv/ECommerce-Business-Performance-Analysis): Analyze an e-commerce business performance to improve their business growth using SQL.  
+ - [Investigate Hotel Business Analysis Using Data Visualization](https://github.com/Yunanouv/Hotel-Business-Analysis) : Analyze city and resort hotels to reduce cancellation rates using python and Power BI.
+   
 ## Machine Learning
 ### Supervised Learning
 - Regression - [Youtube Views Prediction](https://github.com/Yunanouv/Youtube-Views-Prediction): A model to predict youtube views
