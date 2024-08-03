@@ -26,7 +26,8 @@ This is my repository containing a portfolio of data science projects for academ
 - Regression - [Youtube Views Prediction](https://github.com/Yunanouv/Youtube-Views-Prediction): A model to predict youtube views
 - Regression - [Used Car Auction Price Prediction](https://github.com/Yunanouv/Used-Car-Price-Prediction):  A model to predict used car price based on its value utilizing machine learning. The new price is generated based on company problems. Business analysis and recommendations are provided.
 - Classification - [Predict Customer Clicked Ads to Boost Marketing Target](https://github.com/Yunanouv/Predict-Customer-Clicked-Ads-to-Boost-Marketing) : A Model to predict whether customer will click the ads to boost marketing campaign.
-- Classification - [Improving Employee Retention](https://github.com/Yunanouv/Improving-Employee-Retention): A model to predict employee attrition to improve employee retention using machine learning. 
+- Classification - [Improving Employee Retention](https://github.com/Yunanouv/Improving-Employee-Retention): A model to predict employee attrition to improve employee retention using machine learning.
+- Classification - [Hotel Cancellation Prediction](https://github.com/Yunanouv/Hotel-Cancellation-Prediction): A model to predict hotel cancellation prediction to reduce revenue loss using machine learning.
     
 ### Unsupervised Learning
 - Clustering - [Airlines Passengers Clustering](https://github.com/Yunanouv/Airlines-Passengers-Clustering): Clustering the airlines passengers based on customer behavior. Business analysis and recommendations are provided.
