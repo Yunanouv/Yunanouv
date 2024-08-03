@@ -34,8 +34,10 @@ This is my repository containing a portfolio of data science projects for academ
 - Clustering - [Predict Customer Personality](https://github.com/Yunanouv/Predict-Customer-Personality): Clustering the customer personalities to boost marketing campaign. Business analysis and recommendations are provided.
 
 ### Recommender System 
-  - Content-Based Filtering  
+- Content-Based Filtering  
 [Skin Care Product Recommender System Using Content-Based Filtering](https://github.com/Yunanouv/Skin-Care-Recommender-System)
+- Collaborative Filtering   
+[Online Books Recommender System Using Collaborative Filtering](https://github.com/Yunanouv/Recommender-System-Book_Recommender)
 
 
 
