@@ -40,12 +40,12 @@ This is my repository containing a portfolio of data science projects for academ
 [Online Books Recommender System Using Collaborative Filtering](https://github.com/Yunanouv/Recommender-System-Book_Recommender)
 
 ### Deep Learning
-- Image Classification
+- Image Classification  
   [MultiClass - Food Classification](https://github.com/Yunanouv/Image-Classification---Food-Classification) : Cuisine from many countries classification with 48 classes using deep learning
-- Natural Language Processing
- [Women E-Commerce Clothing Reviews](https://github.com/Yunanouv/Natural-Language-Processing) : Product Category Analysis Based on Reviews using LSTM
+- Natural Language Processing  
+ [Women E-Commerce Clothing Reviews](https://github.com/Yunanouv/Natural-Language-Processing) : Product Category Analysis Based on Reviews using LSTM  
  [Sentiment Analysis From Movie Reviews Using Pre-Trained Google Cloud](https://github.com/Yunanouv/NLP-with-Google-Cloud-Natural-Language-API) : Sentiment analysis classification (Good or Bad) using pre-trained model from Google Cloud Natural Language API  
-- Time Series 
+- Time Series   
 
 
 
