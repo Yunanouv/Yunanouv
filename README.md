@@ -10,6 +10,8 @@ This is my repository containing a portfolio of data science projects for academ
 - 🏫 I joined boot camp/online courses at Coursera, Dicoding Academy, Rakamin Academy, DQ Lab
 - ⚡ Fun fact: Love arts and drawing 🎨
 
+<img width="98" alt="DS Associate - badge with outline" src="https://github.com/user-attachments/assets/7e9afaf4-039b-43d0-b348-5bca7d2ee64f">
+
 
 # Data Portfolio  
 
