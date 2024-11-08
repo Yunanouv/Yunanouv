@@ -22,7 +22,10 @@ This is my repository containing a portfolio of data science projects for academ
  - [Public Transportation Analysis](https://github.com/Yunanouv/Public-Transportation-Analysis): Analyze public transportation using python and visuzalize using Tableau.    
  - [E-Commerce Business Performance Analysis Using SQL](https://github.com/Yunanouv/ECommerce-Business-Performance-Analysis): Analyze an e-commerce business performance to improve their business growth using SQL.  
  - [Investigate Hotel Business Analysis Using Data Visualization](https://github.com/Yunanouv/Hotel-Business-Analysis) : Analyze city and resort hotels to reduce cancellation rates using python and Power BI.
-   
+
+## Data Mining and Text Analytics
+- [Yelp Dataset-Restaurant](https://github.com/Yunanouv/Data-Mining-Project): Discover interesting and useful knowledge to help people make dining decisions, including constructing a cuisine map to help people understand the landscape of different cuisines, mining popular dishes of a given cuisine, recommending (i.e., ranking) restaurants for a given dish, and predicting hygiene of a restaurant. 
+
 ## Machine Learning
 ### Supervised Learning
 - Regression - [Youtube Views Prediction](https://github.com/Yunanouv/Youtube-Views-Prediction): A model to predict youtube views
