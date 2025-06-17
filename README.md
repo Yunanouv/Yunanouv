@@ -5,8 +5,6 @@ This is my repository containing a portfolio of data science projects for academ
 
 - 👧 My name is Dwi Ayu Nouvalina
 - ❤️ I love math, business, data, and technology
-- 🌱 I’m currently learning at Purwadhika Digital Technology School through Digital Talent Incubator (DTI) - Data Science Program
-- 🏢 I used to work at Dotlines Group as Business Development
 - 🏫 I joined boot camp/online courses at Coursera, Dicoding Academy, Rakamin Academy, DQ Lab
 - ⚡ Fun fact: Love arts and drawing 🎨
 
