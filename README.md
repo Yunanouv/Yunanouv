@@ -53,15 +53,18 @@ This is my repository containing a portfolio of data science projects for academ
 
 
 ### Tech Stack
-  <a href="#"><img align="left" alt="MySQL" title="MySQL" width="21px" src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png" /></a>
-  <a href="https://www.postgresql.org/"><img align="left" alt="PostgreSQL" title="PostgreSQL" width="21px" src="https://seeklogo.com/images/P/postgresql-logo-5309879B58-seeklogo.com.png" /></a>
-  <a href="https://python.org/"><img align="left" alt="Python" title="Python" width="21px" src="https://seeklogo.com/images/P/python-logo-C50EED1930-seeklogo.com.png" /></a>
-  <a href="https://r-project.org/"><img align="left" alt="R" title="R Programming" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" /></a>
-  <a href="https://jupyter.org/"><img align="left" alt="Jupyter" title="Jupyter" width="21px" src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png" /></a>
-  <a href="https://tensorflow.org/"><img align="left" alt="TensorFlow" title="TensorFlow" width="21px" src="https://seeklogo.com/images/T/tensorflow-logo-C69AEAC9D0-seeklogo.com.png" /></a>
-  <a href="https://scikit-learn.org/"><img align="left" alt="Scikit-Learn" title="Scikit-Learn" width="21px" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" /></a>
-  <a href="https://heroku.com/"><img align="left" alt="Heroku" title="Heroku" width="21px" src="https://seeklogo.com/images/H/heroku-logo-B774A78667-seeklogo.com.png" /></a>
-  <a href="https://streamlit.io/"><img align="left" alt="Streamlit" title="Streamlit" width="21px" src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" /></a>
+<p>
+  <img align="left" alt="Excel" width="35px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" />
+ <img align="left" alt="MySQL"  width="25px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+ <img align="left" alt="Python" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
+ <img align="left" alt="R" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" />
+ <img align="left" alt="Jupyter" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />
+ <img align="left" alt="TensorFlow" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" />
+ <img align="left" alt="Tableau" width="40px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" />
+ <img align="left" alt="Streamlit" width="30px" src="https://img.icons8.com/?size=100&id=Rffi8qeb2fK5&format=png&color=000000" />
+</p>
+
   <br>
   <br>
   
